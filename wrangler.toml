@@ -1,0 +1,3 @@
+# Cloudflare Pages configuration
+name = "whazzmaster-com"
+pages_build_output_dir = "."
