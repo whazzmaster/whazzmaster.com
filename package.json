@@ -1,0 +1,7 @@
+{
+  "name": "whazzmaster.com",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "echo 'Static site - no build needed'"
+  }
+}
